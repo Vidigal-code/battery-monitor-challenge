@@ -588,3 +588,45 @@ complete Java client for the LibreTranslate API.
   version: [https://github.com/Vidigal-code/libretranslate-simple-java](https://github.com/Vidigal-code/libretranslate-simple-java)
 
 </details>
+
+# 📊 Saída da Execução do Programa | Program Execution Output
+
+### 📌 Português  
+A imagem abaixo mostra a saída do programa **BatteryMonitor** com eventos de carga e descarga da bateria.  
+A execução imprime o resultado da bateria após cada conjunto de eventos.
+
+### 📌 English  
+The image below shows the output of the **BatteryMonitor** program with charging and discharging events.  
+The program prints the battery level result after each set of events.
+
+**BatteryMonitor**
+
+![BatteryMonitor](https://github.com/Vidigal-code/battery-monitor-challenge/blob/main/example/BatteryMonitorOutput.png?raw=true)
+
+---
+
+# ✅ Execução dos Testes JUnit | JUnit Test Execution
+
+### 📌 Português  
+Nesta imagem, vemos os testes **JUnit** sendo executados com sucesso.  
+Todos os testes passaram usando o **JDK 21**, indicando que a lógica da bateria está funcionando corretamente para todos os casos testados.
+
+### 📌 English  
+In this image, we see the **JUnit** tests running successfully.  
+All tests passed using **JDK 21**, indicating that the battery logic is working correctly for all tested scenarios.
+
+
+**BatteryMonitorTest**
+
+![BatteryMonitorTest](https://github.com/Vidigal-code/battery-monitor-challenge/blob/main/example/BatteryMonitorTest.png?raw=true)
+
+
+**BatteryMonitorTestAdditional**
+
+![BatteryMonitorTest](https://github.com/Vidigal-code/battery-monitor-challenge/blob/main/example/BatteryMonitorTestAdditional.png?raw=true)
+
+
+
+
+
+
