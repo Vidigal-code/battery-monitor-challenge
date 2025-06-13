@@ -10,7 +10,7 @@ modularidade, testabilidade e manutenibilidade.
 
 ---
 
-### 🎯 O Desafio Original (Conforme a Imagem)
+### 🎯 O Desafio Original
 
 O problema consiste em desenvolver uma função (`getBattery`) que simule o comportamento da bateria de um laptop com base
 nos seguintes critérios:
@@ -300,7 +300,7 @@ modularity, testability, and maintainability.
 
 ---
 
-### 🎯 The Original Challenge (As per the Image)
+### 🎯 The Original Challenge 
 
 The problem consists of developing a function (`getBattery`) that simulates the behavior of a laptop's battery based
 on the following criteria:
